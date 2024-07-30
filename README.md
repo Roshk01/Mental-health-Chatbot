@@ -44,7 +44,7 @@ The FastAPI server is developed with two main endpoints:
 
 #### `/classification`
 
-####dataset link - "https://www.kaggle.com/datasets/uciml/news-aggregator-dataset"
+#### dataset link - "https://www.kaggle.com/datasets/uciml/news-aggregator-dataset"
 - **Objective**: Create a classification model that classifies input data into appropriate categories based on a provided dataset.
 - **Implementation**: Uses Scikit-learn to train a model on the dataset and return the classification results along with the title and URL of each classified story.
 
