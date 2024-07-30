@@ -64,6 +64,7 @@ The Streamlit application provides a user-friendly interface to interact with th
 ### Hugging Face Space
 
 - Created a Hugging Face Space to test and demonstrate the models developed in this project.
+- https://huggingface.co/spaces/Roshanik/mentalhealth
 
 ### Optimization
 
