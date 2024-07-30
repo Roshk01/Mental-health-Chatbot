@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/600aeb1d-bed4-4c02-9c3b-5b5d9bc553ad
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Roshk01/Mental-health-Chatbot.git)
+   git clone https://github.com/Roshk01/Mental-health-Chatbot.git
    cd your-repo-name
    ```
 
