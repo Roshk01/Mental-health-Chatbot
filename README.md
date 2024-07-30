@@ -82,10 +82,3 @@ The Streamlit application provides a user-friendly interface to interact with th
 ## Documentation
 
 Ensure that your code is well-documented with comments explaining key parts of the implementation. The repository includes a README file with clear instructions for setup and execution.
-
----
-
-Make sure to replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name. This README provides a comprehensive overview of your project, making it easier for others to understand and use your work.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/17170031/e0f38de8-8dc7-4da2-9b8a-b20f5db811e1/Assignment-For-AI-Intern-.pdf
