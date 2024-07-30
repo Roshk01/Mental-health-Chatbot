@@ -12,6 +12,13 @@ This repository contains a FastAPI server and a Streamlit application for a ment
 - [Running the Application](#running-the-application)
 - [Documentation](#documentation)
 
+# Demo 
+
+
+https://github.com/user-attachments/assets/600aeb1d-bed4-4c02-9c3b-5b5d9bc553ad
+
+
+
 ## Installation
 
 1. Clone this repository to your local machine:
