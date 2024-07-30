@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+transformers  # Include this if you're using Hugging Face Transformers
